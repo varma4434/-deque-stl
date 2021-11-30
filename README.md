@@ -1,2 +1,3 @@
-# -deque-stl
-C++
+# deque-stl
+# bit array
+solution in C++
